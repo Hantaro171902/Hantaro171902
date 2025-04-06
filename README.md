@@ -12,11 +12,11 @@
     </ul>
   </div>
 
-  <img src="https://github.com/user-attachments/assets/9096d253-3de4-43fb-a2b9-021976e47522" alt="Zhongli GIF" height="120" />
+  <div>
+    <img src="https://github.com/user-attachments/assets/9096d253-3de4-43fb-a2b9-021976e47522" alt="Zhongli GIF" height="120" />
+  </div>
 
 </div>
-
-
 
 ## Contacts Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Validermar02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/han-chau-gia-9574422bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaugiahan001@gmail.com) 
@@ -56,10 +56,20 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hantaro171902&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Hantaro171902/count.svg?"  />
+</div>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+```
+
+> "The only way to do great work is to love what you do."  
+> – Steve Jobs
+
+```
 ###
 
 <div align="center">
@@ -67,20 +77,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hantaro171902&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/OJYmB0SL4EVu8REklW/giphy.gif"  />
-
-
-###
-
 <br clear="both">
 
 <div align="center">
   <img  src="https://raw.githubusercontent.com/hantaro171902/hantaro171902/output/snake.svg" alt="Snake animation" />
 </div>
 
-
-###
 
 ###
