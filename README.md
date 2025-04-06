@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently studying game dev and 3D
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cybluzqjethapby6sqh6hdp7oy)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hantaro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/han-chau-gia-9574422bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaugiahan001@gmail.com) 
