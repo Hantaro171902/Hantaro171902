@@ -1,4 +1,3 @@
-﻿# Hantaro171902
 # 💫 About Me:
 I'm currently studying game dev and 3D
 
