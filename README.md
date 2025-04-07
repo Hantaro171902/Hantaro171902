@@ -79,9 +79,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/Hantaro171902/Hantaro171902/output/snake.svg" alt="Snake animation" />
-</div>
+###
 
+<img src="https://raw.githubusercontent.com/Hantaro171902/Hantaro171902/output/snake.svg" alt="Snake animation" />
 
 ###
+
