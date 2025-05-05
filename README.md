@@ -13,7 +13,7 @@
   </div>
 
   <div>
-    <img src="https://github.com/user-attachments/assets/9096d253-3de4-43fb-a2b9-021976e47522" alt="Zhongli GIF" height="120" />
+    <img src="https://github.com/user-attachments/assets/d4a279ab-2adc-4e3c-8537-a2c3b2ef93ca">
   </div>
 
 </div>
