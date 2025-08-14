@@ -3,7 +3,7 @@
 <div style="display: block; align-items: center; justify-content: space-between;">
 
   <div>
-    <h3>🦁 Hi, I'm <strong>Hantaro</strong></h3>
+    <h3>🦁 Hi, I'm <strong>Hantaro1917</strong></h3>
     <ul>
       <li>🎮 Studying <strong>game dev</strong> & <strong>3D modeling</strong></li>
       <li>💻 Love making clean apps & websites</li>
@@ -88,5 +88,6 @@
 </picture>
 
 ###
+
 
 
