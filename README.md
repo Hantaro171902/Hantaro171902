@@ -56,10 +56,6 @@
 
 
 ---
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Hantaro171902/count.svg?"  />
-</div>
-
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -88,6 +84,7 @@
 </picture>
 
 ###
+
 
 
 
