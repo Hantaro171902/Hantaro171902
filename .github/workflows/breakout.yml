@@ -28,8 +28,8 @@ jobs:
       - name: push breakout.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: github-breakout
+          build_dir: images
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
