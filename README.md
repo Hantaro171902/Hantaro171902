@@ -1,4 +1,4 @@
-<!-- # About Me:
+# About Me:
 
 <div style="display: block; align-items: center; justify-content: space-between;">
 
@@ -82,7 +82,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
+
 ```
 
 > "The only way to do great work is to love what you do."  
@@ -111,7 +111,7 @@
 
 ---
 
--->
+
 
 
 
